@@ -14,11 +14,11 @@ If you’re development and staging process works on a single machine – you’
 
 ## Like?
 
-Load Balancer
-Content CDN
-Socket Chat
-User Authentication
-RESTful API build
+*Load Balancer
+*Content CDN
+*Socket Chat
+*User Authentication
+*RESTful API build
 
 ## What next?
 
