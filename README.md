@@ -11,16 +11,16 @@ Building basic version of the tools you use in real life can help you get a deep
 ## General Idea
 
 If you’re development and staging process works on a single machine – you’re missing a huge part of the development picture. Building tools and projects that use multiple threads, on multiple machines, with multiple channels of communication… brings learning much closer to real world.
-
 ## Like?
 
-+Load Balancer
-+Content CDN
-+Socket Chat
-+User Authentication
-+RESTful API build
+* Load Balancer
+* Content CDN
+* Socket Chat
+* User Authentication
+* RESTful API build
 
 ## What next?
 
 Build out this list and write good briefs to describe what each of the projects might look like.
+
 
