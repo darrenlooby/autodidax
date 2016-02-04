@@ -19,8 +19,19 @@ If you’re development and staging process works on a single machine – you’
 * User Authentication
 * RESTful API build
 
+## More Focused
+
+### HR
+* Employee Profiles
+* Timesheet Management
+* Skills Matrix
+
+### Admin
+
+* Plugin Enabled Dashboard
+  * Backend Plugins
+  * Front End Modules
+
 ## What next?
 
 Build out this list and write good briefs to describe what each of the projects might look like.
-
-
